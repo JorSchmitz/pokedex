@@ -8,7 +8,7 @@ const Pokemon404 = () => {
         <div className='pokemon404'>
             <Header />
             <div className='pokemon404-container'>
-                <img className='pokemon404-img' src="/public/images/pokemon404/who.png" alt="" />
+                <img className='pokemon404-img' src="/images/pokemon404/who.png" alt="" />
                 <h1>Pokemon not found 🤷‍♂️</h1>
                 <Link to={'/pokedex'}>Return to Pokedex</Link>
             </div>

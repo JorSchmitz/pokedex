@@ -12,7 +12,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <img className='pokedex__img2' src="/public/images/pokedex/pokedex2.png" alt="" />
+            <img className='pokedex__img2' src="/images/pokedex/pokedex2.png" alt="" />
         </header>
     )
 }

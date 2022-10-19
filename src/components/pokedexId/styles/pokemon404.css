@@ -1,0 +1,25 @@
+.pokemon404 {
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.pokemon404-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    padding: 3px 3px 15px 3px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 6px rgba(128, 128, 128, 0.432);
+    gap: 10px;
+    color: var(--color-red-text);
+    font-weight: 600;
+}
+.pokemon404-img {
+    width: 100%;
+    border-radius: 4px;
+}

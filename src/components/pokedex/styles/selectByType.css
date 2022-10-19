@@ -1,0 +1,5 @@
+select {
+    width: 80%;
+    box-shadow: 1px 1px 6px rgba(128, 128, 128, 0.432);
+    padding: 10px;
+}
